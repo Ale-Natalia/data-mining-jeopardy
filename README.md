@@ -4,9 +4,10 @@
 git clone https://github.com/Ale-Natalia/data-mining-jeopardy
 
 2. Lucene information retrieval (Java):
-  <br>2.1. Compile the pom.xml file using maven. You can do this using IntelliJ or the commands:
+  <br>2.1. Compile the pom.xml file using maven. You can do this using IntelliJ or the command:
+   ````
    mvn package
-   mvn compile pom.xml
+   ````
   <br>2.2. Run the Main.java file from IntelliJ or another IDE of your choice.
 
 3. Deep Learning information retrieval (Python):
