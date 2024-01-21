@@ -41,3 +41,8 @@ git clone https://github.com/Ale-Natalia/data-mining-jeopardy
   python app.py
   ````
   <br>3.4 Now beat the Jeopardy game! :)
+
+# Results
+
+Java - 
+Python - https://github.com/Ale-Natalia/data-mining-jeopardy/blob/main/jeopardy_python_huggingface/demo.mkv
