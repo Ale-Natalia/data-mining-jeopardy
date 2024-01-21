@@ -48,3 +48,8 @@ git clone https://github.com/Ale-Natalia/data-mining-jeopardy
 
 [Java Results](https://github.com/Ale-Natalia/data-mining-jeopardy/blob/main/jeopardy_question_answers.txt)
 <br>[Python Demo](https://github.com/Ale-Natalia/data-mining-jeopardy/blob/main/jeopardy_python_huggingface/demo.mkv)
+
+# Presentation
+
+[Slides](https://github.com/Ale-Natalia/data-mining-jeopardy/blob/main/Data-Mining-Jeopardy-Presentation.pdf)
+<br>[Video](https://youtu.be/45teYidQHGg)
