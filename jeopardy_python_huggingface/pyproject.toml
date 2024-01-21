@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "data-mining"
+version = "0.1.0"
+description = "An IR sytem implementation based on UAE-Large-V1 from huggingface"
+authors = ["Alexandra Tudorescu, Maria Sintea, Chris Carpineanu, Horatiu Pop, Victor Macinic"]
+license = "APACHE LICENSE, VERSION 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+angle-emb = "^0.2.2"
+qdrant-client = "^1.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
