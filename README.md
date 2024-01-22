@@ -52,5 +52,4 @@ git clone https://github.com/Ale-Natalia/data-mining-jeopardy
 # Presentation
 
 [Slides](https://github.com/Ale-Natalia/data-mining-jeopardy/blob/main/Data-Mining-Jeopardy-Presentation.pdf)
-<br>[Video](https://youtu.be/45teYidQHGg)
-<br>[New video](https://youtu.be/8B-jPxcHwLY)
+<br>[Video](https://youtu.be/8B-jPxcHwLY)
